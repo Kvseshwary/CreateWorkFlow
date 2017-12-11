@@ -33,3 +33,4 @@
  <li>Add the cardomom pods to the pan and stir</li>
  <li>Transfer the cous-cous pudding to a bowl</li>
  <li>Garnish with almonds,raisines and pistachios</li> 
+ <li>Serve to a bowl</li>
