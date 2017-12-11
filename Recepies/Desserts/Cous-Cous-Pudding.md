@@ -34,3 +34,5 @@
  <li>Transfer the cous-cous pudding to a bowl</li>
  <li>Garnish with almonds,raisines and pistachios</li> 
  <li>Serve to a bowl</li>
+ <li>Keep in referigerator after 3 hours</li>
+ <li>Serve cool pudding after meal</li>
